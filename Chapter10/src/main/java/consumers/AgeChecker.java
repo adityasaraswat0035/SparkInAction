@@ -46,6 +46,5 @@ public class AgeChecker extends ForeachWriter<Row> implements Serializable {
     public void close(Throwable errorOrNull) {
         //Implement this method when you close
         //your writer; not applicable here.
-
     }
 }
